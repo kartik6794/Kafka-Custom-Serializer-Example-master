@@ -1,0 +1,6 @@
+D:\Kafka exampl\Kafka-Custom-Serializer-Example-master\src\main\java\com\howtoprogram\kafka\customserializer\User.java
+D:\Kafka exampl\Kafka-Custom-Serializer-Example-master\src\main\java\com\howtoprogram\kafka\customserializer\UserConsumerThread.java
+D:\Kafka exampl\Kafka-Custom-Serializer-Example-master\src\main\java\com\howtoprogram\kafka\customserializer\UserProducerThread.java
+D:\Kafka exampl\Kafka-Custom-Serializer-Example-master\src\main\java\com\howtoprogram\kafka\customserializer\KakfaCustomSerializerMain.java
+D:\Kafka exampl\Kafka-Custom-Serializer-Example-master\src\main\java\com\howtoprogram\kafka\customserializer\UserDeserializer.java
+D:\Kafka exampl\Kafka-Custom-Serializer-Example-master\src\main\java\com\howtoprogram\kafka\customserializer\UserSerializer.java
